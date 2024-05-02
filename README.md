@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 ### node version v18.17.0
+### npm 9.8.1
 ### react version 18.3.1
 
 ### 1 - Execute o comando npm install 
